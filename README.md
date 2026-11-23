@@ -1,4 +1,4 @@
-# Deep Learning Project — Dry Bean Dataset Classification
+# Deep Learning (First Project) — Dry Bean Dataset Classification
 
 ## Overview
 
